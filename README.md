@@ -24,6 +24,6 @@ Run detect.py to see results.
 <img width="100px" src="https://github.com/hasanaliqureshi/object-detection-python-opencv/blob/master/yo.jpg" />
 <img width="100px" src="https://github.com/hasanaliqureshi/object-detection-python-opencv/blob/master/yo2.jpg" />
 
-* Multiple Strawberry
+* Multiple Strawberries
 <img width="200px"  src="https://github.com/hasanaliqureshi/object-detection-python-opencv/blob/master/44.jpg" />
 <img width="200px" src="https://github.com/hasanaliqureshi/object-detection-python-opencv/blob/master/yo3.jpg" />
