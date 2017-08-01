@@ -127,8 +127,8 @@ def find_strawberry(image):
     return bgr
 
 #read the image
-image = cv2.imread('44.jpg')
+image = cv2.imread('imagename.jpg')
 #detect it
 result = find_strawberry(image)
 #write the new image
-cv2.imwrite('yo2.jpg', result)
+cv2.imwrite('result.jpg', result)
