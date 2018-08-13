@@ -1,5 +1,5 @@
 # Object Detection using Python OpenCV #
-Using dataset of test scores of students and amount of hours they studied for it, we are finding relationship between these two values using Linear Regression.
+
 
 # Techniques used in this Project #
 * Color Detection 
